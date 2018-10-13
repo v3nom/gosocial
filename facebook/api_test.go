@@ -1,1 +1,1 @@
-package fbapi
+package facebook
